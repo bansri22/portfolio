@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,yEAA+D,CACjE,qBACF","file":"src.0b124198.css","sourceRoot":"..\\src","sourcesContent":[".img {\r\n    background: url(./assets/img.jpg) no-repeat center center fixed;\r\n  background-size: cover;\r\n}"]}

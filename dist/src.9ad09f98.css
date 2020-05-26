@@ -1,0 +1,53 @@
+.img {
+    background: url(/image.70feebc7.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+  
+  
+  
+  body {
+  
+    text-align: center;
+  
+    font-size: 20px;
+  
+    padding: 2.5%;
+  
+    font-family: 'RobotoCondensed';
+  
+  }
+  
+  
+  
+  h1, h2, h3, h4, h5 {
+  
+    font-family: 'EconomicaBold';
+  
+  }
+  
+  
+  
+  .profile {
+  
+    width: 200px;
+  
+    height: 200px;
+  
+    border-radius: 100px;
+  
+  }
+  
+  
+  
+  .hr
+  {
+    color: 'red' ;
+  }
+  .Title
+  {
+    color:'blue';
+    background-color:'blue';
+  }
+
+/*# sourceMappingURL=/src.9ad09f98.css.map */

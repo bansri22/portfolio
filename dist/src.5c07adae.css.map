@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,yEAEJ","file":"src.5c07adae.css","sourceRoot":"..\\src","sourcesContent":[".img {\r\n    background: url(./assets/img.jpg) no-repeat center center fixed;\r\n  \r\n}"]}
